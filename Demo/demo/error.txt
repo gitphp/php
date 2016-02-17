@@ -1,0 +1,24 @@
+2015-02-01 14:27:36
+#0 D:\home\Demo\yimai\Core\DB.class.php(37): PDO->__construct('mysql:host=192....', 'admin', '1234')
+#1 D:\home\Demo\yimai\Core\DB.class.php(29): DB->db_ini()
+#2 D:\home\Demo\yimai\Core\Session.class.php(12): DB->__construct()
+#3 D:\home\Demo\yimai\Core\Application.class.php(95): Session->__construct()
+#4 D:\home\Demo\yimai\Core\Application.class.php(27): Application::setSession()
+#5 D:\home\Demo\yimai\index.php(13): Application::run()
+#6 {main}
+2015-02-01 14:27:55
+#0 D:\home\Demo\yimai\Core\DB.class.php(37): PDO->__construct('mysql:host=192....', 'admin', '1234')
+#1 D:\home\Demo\yimai\Core\DB.class.php(29): DB->db_ini()
+#2 D:\home\Demo\yimai\Core\Session.class.php(12): DB->__construct()
+#3 D:\home\Demo\yimai\Core\Application.class.php(95): Session->__construct()
+#4 D:\home\Demo\yimai\Core\Application.class.php(27): Application::setSession()
+#5 D:\home\Demo\yimai\index.php(13): Application::run()
+#6 {main}
+2015-02-01 14:30:17
+#0 D:\home\Demo\yimai\Core\DB.class.php(37): PDO->__construct('mysql:host=192....', 'admin', '1234')
+#1 D:\home\Demo\yimai\Core\DB.class.php(29): DB->db_ini()
+#2 D:\home\Demo\yimai\Core\Session.class.php(12): DB->__construct()
+#3 D:\home\Demo\yimai\Core\Application.class.php(95): Session->__construct()
+#4 D:\home\Demo\yimai\Core\Application.class.php(27): Application::setSession()
+#5 D:\home\Demo\yimai\index.php(13): Application::run()
+#6 {main}

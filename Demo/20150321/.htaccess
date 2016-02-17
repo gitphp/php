@@ -1,0 +1,5 @@
+<ifmodule rewrite_module>
+RewriteEngine on
+RewriteRule a.html index.php
+
+<ifmodule>
