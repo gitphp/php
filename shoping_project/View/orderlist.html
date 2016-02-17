@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>PHP学习测试首页</title>
+<link type="text/css" rel="stylesheet" href="./public/css/style.css" />
+<script type="text/javascript" src="./public/scripts/function.js"></script>
+	<style type="text/css">
+		#buy{
+			width:100px;
+			height:40px;
+			margin-right:30px;
+			color:red;
+			font-size:29px;
+			font-bold:bold;
+			border-bottom:4px solid #ccc;
+			border-right:4px solid #ccc;
+		}
+	</style>
+</head>
+<body>
+<div id="header" class="wrap">
+	<div id="logo"><img src="./public/images/logo.gif" /></div>
+	<div class="help"><a href="index.php?m=car&a=showcar" class="shopping">购物车</a><a href="login.html">登录</a><a href="register.html">注册</a><a href="guestbook.html">留言</a></div>
+	<div class="navbar">
+		<ul class="clearfix">
+			<li class="current"><a href="#">首页</a></li>
+			<li><a href="#">图书</a></li>
+			<li><a href="#">百货</a></li>
+			<li><a href="#">品牌</a></li>
+			<li><a href="#">促销</a></li>
+		</ul>
+	</div>
+</div>
+<div id="childNav">
+	<div class="wrap">
+		<ul class="clearfix">
+			<li class="first"><a href="#">音乐</a></li>
+			<li><a href="#">影视</a></li>
+			<li><a href="#">少儿</a></li>
+			<li><a href="#">动漫</a></li>
+			<li><a href="#">小说</a></li>
+			<li><a href="#">外语</a></li>
+			<li><a href="#">数码相机</a></li>
+			<li><a href="#">笔记本</a></li>
+			<li><a href="#">羽绒服</a></li>
+			<li><a href="#">秋冬靴</a></li>
+			<li><a href="#">运动鞋</a></li>
+			<li><a href="#">美容护肤</a></li>
+			<li><a href="#">家纺用品</a></li>
+			<li><a href="#">婴幼奶粉</a></li>
+			<li><a href="#">饰品</a></li>
+			<li class="last"><a href="#">Investor Relations</a></li>
+		</ul>
+	</div>
+</div>
+<div id="position" class="wrap">
+	您现在的位置：<a href="index.html">PHP学习测试首页</a> &gt; 购物车
+</div>
+<center>
+<div class="wrapp">
+	<div id="shoppingg">
+		<div class="shadowg">
+			<em class="corner lb"></em>
+			<em class="corner rt"></em>
+			<div class="boxg">
+				<div class="msgg">
+					<table width=70% border=1>
+						<tr>
+							<th>订单编号</th><th>产品名字</th><th>单价</th><th>购买数量</th><th>价格总计</th>
+						</tr>
+						<?php for($i=0;$i<count($nums);$i++): ?>
+						<tr>
+							<td><?php echo $orders[0]['o_hao'];?></td><td><?php echo $names[$i];?></td><td><?php echo $prices[$i];?></td><td><?php echo $nums[$i];?></td><td><?php echo $totals[$i];?></td>
+						</tr>
+						<?php endfor; ?>
+						<!-- <tr>
+							<td>shop001</td><td>iphone 6plus</td><td>2000.00</td><td>3</td><td>2000.00</td>
+						</tr>
+						<tr>
+							<td>shop001</td><td>iphone 6plus</td><td>2000.00</td><td>3</td><td>2000.00</td>
+						</tr>
+						<tr>
+							<td>shop001</td><td>iphone 6plus</td><td>2000.00</td><td>3</td><td>2000.00</td>
+						</tr> -->
+						<tr>
+							<td align=right colspan=5><span><?php echo '总金额是：',$money,'元';?></span></td>
+						</tr>
+						<tr>
+							<!-- <td align=right colspan=5><input type='submit' value='付款结算'></td> -->
+							<td align=right colspan=5><input id='buy' type="button" name="button" value="付 款" onclick="money(<?php echo $money;?>)" /></td>
+						</tr> 
+					</table>
+					
+					<!-- <p>恭喜：购买成功！</p> -->
+					<!-- <p>正在进入首页...</p> -->
+					<!-- <script type="text/javascript">
+						setTimeout("location.href='index.html'", 3000);
+					</script> -->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</center>
+<div id="footer">
+	Copyright &copy; 2015 PHP学习测试首页 All Rights Reserved. 京ICP证1000001号
+</div>
+</body>
+</html>

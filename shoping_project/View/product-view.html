@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>PHP学习测试首页</title>
+<link type="text/css" rel="stylesheet" href="./public/css/style.css" />
+<script type="text/javascript" src="./public/scripts/function.js"></script>
+</head>
+<body>
+<div id="header" class="wrap">
+	<div id="logo"><img src="./public/images/logo.gif" /></div>
+	<div class="help"><a href="index.php?m=car&a=showcar" class="shopping">购物车</a><a href="login.html">登录</a><a href="register.html">注册</a><a href="guestbook.html">留言</a></div>
+	<div class="navbar">
+		<ul class="clearfix">
+			<li class="current"><a href="#">首页</a></li>
+			<li><a href="#">图书</a></li>
+			<li><a href="#">百货</a></li>
+			<li><a href="#">品牌</a></li>
+			<li><a href="#">促销</a></li>
+		</ul>
+	</div>
+</div>
+<div id="childNav">
+	<div class="wrap">
+		<ul class="clearfix">
+			<li class="first"><a href="#">音乐</a></li>
+			<li><a href="#">影视</a></li>
+			<li><a href="#">少儿</a></li>
+			<li><a href="#">动漫</a></li>
+			<li><a href="#">小说</a></li>
+			<li><a href="#">外语</a></li>
+			<li><a href="#">数码相机</a></li>
+			<li><a href="#">笔记本</a></li>
+			<li><a href="#">羽绒服</a></li>
+			<li><a href="#">秋冬靴</a></li>
+			<li><a href="#">运动鞋</a></li>
+			<li><a href="#">美容护肤</a></li>
+			<li><a href="#">家纺用品</a></li>
+			<li><a href="#">婴幼奶粉</a></li>
+			<li><a href="#">饰品</a></li>
+			<li class="last"><a href="#">Investor Relations</a></li>
+		</ul>
+	</div>
+</div>
+<div id="position" class="wrap">
+	您现在的位置：<a href="index.php">php测试</a> &gt; <a href="product-list.html">图书音像</a> &gt; 图书
+</div>
+<div id="main" class="wrap">
+	<div class="lefter">
+		<div class="box">
+			<h2>商品分类</h2>
+			<dl>
+				<dt>图书音像</dt>
+				<dd><a href="product-list.html">图书</a></dd>
+				<dd><a href="product-list.html">音乐</a></dd>
+				<dt>百货</dt>
+				<dd><a href="product-list.html">运动健康</a></dd>
+				<dd><a href="product-list.html">服装</a></dd>
+				<dd><a href="product-list.html">家居</a></dd>
+				<dd><a href="product-list.html">美妆</a></dd>
+				<dd><a href="product-list.html">母婴</a></dd>
+				<dd><a href="product-list.html">食品</a></dd>
+				<dd><a href="product-list.html">手机数码</a></dd>
+				<dd><a href="product-list.html">家具首饰</a></dd>
+				<dd><a href="product-list.html">手表饰品</a></dd>
+				<dd><a href="product-list.html">鞋包</a></dd>
+				<dd><a href="product-list.html">家电</a></dd>
+				<dd><a href="product-list.html">电脑办公</a></dd>
+				<dd><a href="product-list.html">玩具文具</a></dd>
+				<dd><a href="product-list.html">汽车用品</a></dd>
+			</dl>
+		</div>
+	</div>
+	<div id="product" class="main">
+		<h1><?php echo $goods['g_name']; ?></h1>
+		<div class="infos">
+			<div class="thumb"><img src="./admin/public/uploads/<?php echo $goods['g_image']; ?>" /></div>
+			<div class="buy">
+				<p>商城价：<span class="price"><?php echo $goods['g_price']; ?></span></p>
+				<p>库　存：<?php echo $goods['g_inv']; ?></p>
+				<p>品  牌：<?php echo $goods['g_brand']; ?></p>
+				<p>编　号：<?php echo $goods['g_sn']; ?></p>
+				<p>点击量：<?php echo $goods['g_click']; ?></p>
+				<div class="button"><input type="button" name="button" value="" onclick="goBuy(<?php echo $goods['g_id'];?>)" /><a href="index.php?m=car&a=car&id=<?php echo $goods['g_id'];?>">放入购物车</a></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="introduce">
+			<h2><strong>商品详情</strong></h2>
+			<div class="text">
+				<ul class="dl05">
+						<li><span class="f-l tit">商品编号：</span><span class="f-l">0009999706</span></li>
+						<li><span class="f-l tit">品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</span><span class="f-l">九阳</span></li>
+						<li><span class="f-l tit">规&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;格：</span><span class="f-l">DJ12B-A11</span></li>
+						<li><span class="f-l tit">库存状态：</span><span class="f-l">有货，可当日出货</span></li>
+						<li><span class="f-l tit">配送限制：</span><span class="f-l">无限制 <a class="more" href="#">运费详情>></a></span></li>
+					</ul>
+					<!-- 产品详情 -->
+					<div class="">
+					<dl>
+						<dt>
+							<a class="current" href="javascript:void(0);"><span>产品介绍</span></a>
+							<a href="javascript:void(0);"><span>规格参数</span></a>
+							<a href="javascript:void(0);"><span>保修条款</span></a>
+							<a href="javascript:void(0);"><span>包装清单</span></a>
+						</dt>
+						<dd>
+							<ul class="dtpro cf">
+								<li>商品名称：九阳营养王系列豆浆机 DJ14B-D06</li>
+								<li>品牌：九阳</li>
+								<li>规格：DJ14B-D06</li>
+								<li>重量：3.3kg</li>
+								<li>上架时间：2010-06-13</li>
+							</ul>
+						
+							<div class="dtbq">
+								<h3>品牌介绍</h3>
+								<p>九阳公司在健康饮食电器领域不断发展九阳公司在健康饮食电器领域不断发展九阳公司在健康饮食电器领域不断发展</p>
+							</div>
+							<div class="dtbq">
+								<h3>服务承诺：</h3>
+								<p>九阳公司在健康饮食电器领域不断发展九阳公司在健康饮食电器领域不断发展九阳公司在健康饮食电器领域不断发展</p>
+							</div>
+							<div class="dtbq">
+								<h3>温馨提示：</h3>
+								<p>九阳公司在健康饮食电器领域不断发展九阳公司在健康饮食电器领域不断发展九阳公司在健康饮食电器领域不断发展</p>
+							</div>
+						</dd>
+						<dd>
+							暂无规格参数，我们将尽快联系厂商提供进一步的明细信息。 
+						</dd>
+						<dd>
+							由于厂商产品批次不同，具体包装清单可能各有不同，请以实物为准 ！ 
+						</dd>
+						<dd>
+							我们保证商品的进货渠道和质量，如果客户在使用时遭遇质量问题，我们会按照国家法律规定予以处理。 	
+						</dd>
+					</dl>
+				</div><!--dtsummary end-->
+			</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="footer">
+	Copyright &copy; 2015 PHP学习测试首页 All Rights Reserved. 京ICP证1000001号
+</div>
+</body>
+</html>

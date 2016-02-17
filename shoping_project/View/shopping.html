@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>PHP学习测试首页</title>
+<link type="text/css" rel="stylesheet" href="./public/css/style.css" />
+<script type="text/javascript" src="./public/scripts/function.js"></script>
+	<style type="text/css">
+		#addr{
+			width:400px;
+			height:20px;
+		}
+	</style>
+</head>
+<body>
+<div id="header" class="wrap">
+	<div id="logo"><img src="./public/images/logo.gif" /></div>
+	<div class="help"><a href="index.php?m=car&a=showcar" class="shopping">购物车</a><a href="login.html">登录</a><a href="register.html">注册</a><a href="guestbook.html">留言</a></div>
+	<div class="navbar">
+		<ul class="clearfix">
+			<li class="current"><a href="#">首页</a></li>
+			<li><a href="#">图书</a></li>
+			<li><a href="#">百货</a></li>
+			<li><a href="#">品牌</a></li>
+			<li><a href="#">促销</a></li>
+		</ul>
+	</div>
+</div>
+<div id="childNav">
+	<div class="wrap">
+		<ul class="clearfix">
+			<li class="first"><a href="#">音乐</a></li>
+			<li><a href="#">影视</a></li>
+			<li><a href="#">少儿</a></li>
+			<li><a href="#">动漫</a></li>
+			<li><a href="#">小说</a></li>
+			<li><a href="#">外语</a></li>
+			<li><a href="#">数码相机</a></li>
+			<li><a href="#">笔记本</a></li>
+			<li><a href="#">羽绒服</a></li>
+			<li><a href="#">秋冬靴</a></li>
+			<li><a href="#">运动鞋</a></li>
+			<li><a href="#">美容护肤</a></li>
+			<li><a href="#">家纺用品</a></li>
+			<li><a href="#">婴幼奶粉</a></li>
+			<li><a href="#">饰品</a></li>
+			<li class="last"><a href="#">Investor Relations</a></li>
+		</ul>
+	</div>
+</div>
+<div id="position" class="wrap">
+	您现在的位置：<a href="index.html">php测试</a> &gt; 购物车
+</div>
+<div class="wrap">
+	<div id="shopping">
+		<form action="index.php?m=order&a=order" method='post'>
+			<table>
+				<tr>
+					<th>商品名称</th>
+					<th>商品单价</th>
+					<th>购买数量</th>
+					
+					<th>商品总价</th>
+					<th>操作</th>
+				</tr>
+				<!-- 显示购物车信息 -->
+				<?php foreach($shop as $k=>$v): ?>
+				<tr id="product_id_1">
+					<td class="thumb"><img src="./admin/public/uploads/<?php echo $v['g_thumb'];?>"/><a href="product-view.html"><?php echo $v['g_name'];?></a>
+					<input type='hidden' name='g_name[]' value="<?php echo $v['g_name'];?>">
+					<input type='hidden' name='username' value="<?php echo $v['u_username'];?>">
+					</td>
+					<td class="price1" id="price_id_11">
+						<span><?php echo $v['g_price'];?></span>
+						<input type="hidden" name='price[]' value="<?php echo $v['g_price'];?>" />
+					</td>
+					<td class="number">
+						<dl>
+							<dt><input id="number_id_1" type="text" name="num[]" value="<?php echo $v['c_num'];?>" /></dt>
+							<dd onclick="reloadPrice(1,true);">修改</dd>
+						</dl>
+					</td>
+					<td class="price" id="price_id_1">
+						<span><?php echo $v['c_total'];?></span>
+						<input type="hidden" name='total[]' value="<?php echo $v['c_total'];?>" />
+					</td>
+					<td class="delete"><a href="index.php?m=car&a=deletecar&id=<?php echo $v['c_id'];?>" onclick="return confirm('你确定删除么?');">删除</a></td>
+				</tr>
+				<?php endforeach; ?>
+				<!-- 展示购物车信息 -->
+				<tr>
+					<td colspan='5'>
+						填写您的姓名：<input id='addr' type='text' name='name'/>
+					</td>
+				</tr>
+				<tr>
+					<td colspan='5'>
+						填写您的地址：<input id='addr' type='text' name='addr'/>
+					</td>
+				</tr>
+				<tr>
+					<td colspan='5'>
+						填写您的电话：<input id='addr' type='text' name='phone'/>
+					</td>
+				</tr>
+			</table>
+			<div class="button"><input type="submit" value="" /></div>
+		</form>
+	</div>
+	<script type="text/javascript">
+		document.write("Cookie中记录的购物车商品ID："+ getCookie("product") + "，可以在动态页面中进行读取");
+	</script>
+</div>
+<div id="footer">
+	Copyright &copy; 2015 PHP学习测试首页 All Rights Reserved. 京ICP证1000001号
+</div>
+</body>
+</html>
