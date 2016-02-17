@@ -1,0 +1,2274 @@
+[ 2015-04-04T00:38:19+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2015-04-04T00:38:19+08:00 ] 127.0.0.1 /index.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2015-04-04T00:38:19+08:00 ] 127.0.0.1 /index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2015-04-04T00:38:19+08:00 ] 127.0.0.1 /index.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2015-04-04T00:38:22+08:00 ] 127.0.0.1 /index.php/Home/Auth/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2015-04-04T00:38:22+08:00 ] 127.0.0.1 /index.php/Home/Index/cat_manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+ERR: 非法操作:cat_manage
+
+[ 2015-04-04T00:38:25+08:00 ] 127.0.0.1 /index.php/Home/Auth/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2015-04-04T00:38:26+08:00 ] 127.0.0.1 /index.php/Home/Auth/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2015-04-04T10:06:32+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2015-04-04T10:06:33+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2015-04-04T10:06:33+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2015-04-04T10:06:40+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.5758975969108742
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2015-04-04T10:06:44+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2015-04-04T10:06:45+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+
+[ 2015-04-04T10:06:45+08:00 ] 127.0.0.1 /index.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2015-04-04T10:06:45+08:00 ] 127.0.0.1 /index.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2015-04-04T10:06:45+08:00 ] 127.0.0.1 /index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2015-04-04T10:06:59+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-04-04T10:09:39+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2015-04-04T10:09:51+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-04-04T10:10:18+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+
+[ 2015-04-04T10:10:28+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2015-04-04T10:10:44+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2015-04-04T10:13:47+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2015-04-04T10:14:18+08:00 ] 127.0.0.1 /index.php/Home/Auth/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2015-04-04T10:15:27+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2015-04-04T10:16:16+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2015-04-04T10:17:07+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2015-04-04T10:17:18+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2015-04-04T10:17:36+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2015-04-04T10:19:16+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2015-04-04T10:19:25+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2015-04-04T10:19:32+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2015-04-04T10:19:44+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2015-04-04T10:22:38+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2015-04-04T11:29:16+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2015-04-04T11:29:53+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2015-04-04T11:29:58+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+
+[ 2015-04-04T11:31:26+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-04-04T11:32:06+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2015-04-04T11:32:13+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2015-04-04T11:33:04+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2015-04-04T11:33:10+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2015-04-04T12:45:01+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2015-04-04T12:45:14+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2015-04-04T12:45:16+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2015-04-04T12:45:21+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2015-04-04T12:45:35+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2015-04-04T12:46:22+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2015-04-04T12:47:03+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2015-04-04T12:48:15+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2015-04-04T12:48:40+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2015-04-04T12:49:54+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2015-04-04T12:50:55+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2015-04-04T12:51:26+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2015-04-04T12:52:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2015-04-04T12:52:02+08:00 ] 127.0.0.1 /index.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2015-04-04T12:52:02+08:00 ] 127.0.0.1 /index.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2015-04-04T12:52:02+08:00 ] 127.0.0.1 /index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2015-04-04T12:52:18+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2015-04-04T12:52:56+08:00 ] 127.0.0.1 /index.php/Home/role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2015-04-04T12:56:01+08:00 ] 127.0.0.1 /index.php/Home/role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2015-04-04T12:56:02+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2015-04-04T12:56:03+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2015-04-04T12:56:04+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+
+[ 2015-04-04T12:56:20+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2015-04-04T12:56:43+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2015-04-04T12:56:45+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2015-04-04T12:56:47+08:00 ] 127.0.0.1 /index.php/Home/Role/edit/id/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2015-04-04T12:56:52+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 参数错误或者未定义:id
+
+[ 2015-04-04T12:57:11+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2015-04-04T12:57:13+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2015-04-04T12:57:16+08:00 ] 127.0.0.1 /index.php/Home/Role/edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2015-04-04T12:58:24+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+
+[ 2015-04-04T12:58:25+08:00 ] 127.0.0.1 /index.php/Home/Role/edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2015-04-04T12:59:32+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2015-04-04T13:00:01+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2015-04-04T13:00:08+08:00 ] 127.0.0.1 /index.php/Home/Role/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2015-04-04T13:00:25+08:00 ] 127.0.0.1 /index.php/Home/Role/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2015-04-04T13:00:32+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2015-04-04T13:00:34+08:00 ] 127.0.0.1 /index.php/Home/Role/edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2015-04-04T13:01:51+08:00 ] 127.0.0.1 /index.php/Home/Role/edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2015-04-04T13:03:00+08:00 ] 127.0.0.1 /index.php/Home/Role/edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+
+[ 2015-04-04T13:03:09+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2015-04-04T13:04:05+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2015-04-04T13:05:07+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2015-04-04T13:05:09+08:00 ] 127.0.0.1 /index.php/Home/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001211s ]
+
+[ 2015-04-04T13:05:22+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2015-04-04T13:05:24+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2015-04-04T13:06:03+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2015-04-04T13:06:05+08:00 ] 127.0.0.1 /index.php/Home/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+
+[ 2015-04-04T13:06:15+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2015-04-04T13:06:32+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2015-04-04T13:06:34+08:00 ] 127.0.0.1 /index.php/Home/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2015-04-04T13:06:39+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2015-04-04T13:06:52+08:00 ] 127.0.0.1 /index.php/Home/role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2015-04-04T13:07:01+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2015-04-04T13:07:03+08:00 ] 127.0.0.1 /index.php/Home/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2015-04-04T13:07:33+08:00 ] 127.0.0.1 /index.php/Home/Role/edit/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2015-04-04T13:09:44+08:00 ] 127.0.0.1 /index.php/Home/Role/edit/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2015-04-04T13:10:15+08:00 ] 127.0.0.1 /index.php/Home/Role/edit/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2015-04-04T13:10:38+08:00 ] 127.0.0.1 /index.php/Home/Role/edit/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2015-04-04T13:10:43+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2015-04-04T13:11:07+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2015-04-04T13:11:54+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+
+[ 2015-04-04T13:20:48+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+
+[ 2015-04-04T13:21:08+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2015-04-04T13:22:50+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2015-04-04T13:22:53+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2015-04-04T13:26:16+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2015-04-04T13:26:26+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2015-04-04T13:26:29+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2015-04-04T13:26:38+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2015-04-04T13:26:59+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2015-04-04T13:27:31+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2015-04-04T13:28:10+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2015-04-04T13:35:53+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+
+[ 2015-04-04T13:35:56+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2015-04-04T13:36:35+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2015-04-04T13:36:43+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+
+[ 2015-04-04T13:37:05+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2015-04-04T13:37:09+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2015-04-04T13:37:23+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2015-04-04T13:39:26+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2015-04-04T13:39:46+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+
+[ 2015-04-04T13:39:49+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2015-04-04T13:40:26+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2015-04-04T13:40:29+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2015-04-04T13:41:01+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+
+[ 2015-04-04T13:41:04+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2015-04-04T13:41:23+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2015-04-04T13:41:27+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2015-04-04T13:44:22+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2015-04-04T13:46:43+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2015-04-04T13:46:46+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2015-04-04T13:48:56+08:00 ] 127.0.0.1 /index.php/Home/Role/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2015-04-04T13:48:58+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2015-04-04T13:49:04+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2015-04-04T13:49:06+08:00 ] 127.0.0.1 /index.php/Home/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2015-04-04T13:49:09+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2015-04-04T13:49:52+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+
+[ 2015-04-04T13:50:50+08:00 ] 127.0.0.1 /index.php/Home/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+
+[ 2015-04-04T13:50:52+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2015-04-04T13:51:09+08:00 ] 127.0.0.1 /index.php/Home/Role/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+
+[ 2015-04-04T13:51:11+08:00 ] 127.0.0.1 /index.php/Home/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2015-04-04T13:51:17+08:00 ] 127.0.0.1 /index.php/Home/Role/del/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2015-04-04T13:51:37+08:00 ] 127.0.0.1 /index.php/Home/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2015-04-04T13:54:07+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2015-04-04T13:54:07+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T13:54:07+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T13:55:28+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2015-04-04T13:55:28+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T13:55:28+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T13:56:34+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2015-04-04T13:56:34+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T13:56:34+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T13:56:43+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2015-04-04T13:56:43+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T13:56:43+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T13:56:45+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2015-04-04T13:56:45+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T13:56:45+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T13:57:03+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2015-04-04T13:57:03+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002242s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T13:57:03+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T13:57:21+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2015-04-04T13:57:21+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T13:57:21+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T13:57:25+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2015-04-04T13:57:25+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T13:57:25+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T13:57:42+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2015-04-04T13:57:42+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T13:57:42+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T13:59:06+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: Think\Controller:create方法不存在！
+
+[ 2015-04-04T13:59:42+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-04-04T13:59:42+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T13:59:42+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T13:59:44+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2015-04-04T14:00:03+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2015-04-04T14:00:03+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T14:00:03+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T14:00:05+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2015-04-04T14:00:29+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2015-04-04T14:00:37+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2015-04-04T14:00:43+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2015-04-04T14:00:49+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2015-04-04T15:52:27+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2015-04-04T15:52:31+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2015-04-04T15:52:31+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T15:52:31+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T15:52:35+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2015-04-04T15:53:52+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2015-04-04T15:53:52+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T15:53:52+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T15:53:54+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2015-04-04T15:54:21+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2015-04-04T15:54:21+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T15:54:21+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T15:54:34+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2015-04-04T15:54:34+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T15:54:34+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T15:55:55+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2015-04-04T15:55:55+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T15:55:55+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T15:55:59+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-04-04T15:55:59+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T15:55:59+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T15:56:06+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2015-04-04T15:56:07+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T15:56:07+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T15:57:17+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+
+[ 2015-04-04T15:57:17+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T15:57:17+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T15:57:24+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2015-04-04T15:57:24+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T15:57:24+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T16:04:27+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2015-04-04T16:04:27+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T16:04:27+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T16:04:35+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001258s ]
+ERR: 非法数据对象！:[admin_id=>3]
+
+[ 2015-04-04T16:05:54+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2015-04-04T16:05:54+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T16:05:54+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T16:06:00+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2015-04-04T16:06:00+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T16:06:00+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T16:06:45+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+
+[ 2015-04-04T16:06:45+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T16:06:45+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T16:06:51+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2015-04-04T16:06:51+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T16:06:51+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:10:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2015-04-04T21:10:34+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2015-04-04T21:10:34+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2015-04-04T21:10:41+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2015-04-04T21:10:42+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2015-04-04T21:10:42+08:00 ] 127.0.0.1 /index.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000382s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001537s ]
+
+[ 2015-04-04T21:10:42+08:00 ] 127.0.0.1 /index.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2015-04-04T21:10:42+08:00 ] 127.0.0.1 /index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2015-04-04T21:11:18+08:00 ] 127.0.0.1 /index.php/Home/Auth/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2015-04-04T21:11:31+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+
+[ 2015-04-04T21:11:31+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:11:31+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:15:53+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2015-04-04T21:15:54+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2015-04-04T21:15:54+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2015-04-04T21:16:03+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2015-04-04T21:16:04+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2015-04-04T21:16:04+08:00 ] 127.0.0.1 /index.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2015-04-04T21:16:04+08:00 ] 127.0.0.1 /index.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2015-04-04T21:16:04+08:00 ] 127.0.0.1 /index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+
+[ 2015-04-04T21:16:06+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2015-04-04T21:16:06+08:00 ] 127.0.0.1 /index.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2015-04-04T21:16:06+08:00 ] 127.0.0.1 /index.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2015-04-04T21:16:06+08:00 ] 127.0.0.1 /index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2015-04-04T21:16:12+08:00 ] 127.0.0.1 /index.php/Home/admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2015-04-04T21:16:12+08:00 ] 127.0.0.1 /index.php/Home/admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:16:12+08:00 ] 127.0.0.1 /index.php/Home/admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:16:27+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-04-04T21:16:27+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:16:27+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:35:52+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2015-04-04T21:35:53+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+
+[ 2015-04-04T21:35:53+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:35:53+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:35:59+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2015-04-04T21:35:59+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:35:59+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:36:44+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2015-04-04T21:49:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2015-04-04T21:49:21+08:00 ] 127.0.0.1 /index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2015-04-04T21:49:21+08:00 ] 127.0.0.1 /index.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2015-04-04T21:49:21+08:00 ] 127.0.0.1 /index.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2015-04-04T21:49:24+08:00 ] 127.0.0.1 /index.php/Home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2015-04-04T21:49:24+08:00 ] 127.0.0.1 /index.php/Home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2015-04-04T21:49:25+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2015-04-04T21:49:25+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2015-04-04T21:49:32+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2015-04-04T21:49:33+08:00 ] 127.0.0.1 /index.php/Home/Login/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2015-04-04T21:49:33+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2015-04-04T21:50:20+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.7300187274666421
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2015-04-04T21:50:25+08:00 ] 127.0.0.1 /index.php/Home/Login/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2015-04-04T21:50:26+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+
+[ 2015-04-04T21:50:26+08:00 ] 127.0.0.1 /index.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2015-04-04T21:50:26+08:00 ] 127.0.0.1 /index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2015-04-04T21:50:26+08:00 ] 127.0.0.1 /index.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2015-04-04T21:50:31+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2015-04-04T21:50:31+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:50:31+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:51:03+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2015-04-04T21:51:04+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2015-04-04T21:51:04+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:51:04+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:52:05+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2015-04-04T21:52:05+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:52:05+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:52:24+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2015-04-04T21:52:25+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2015-04-04T21:52:25+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:52:25+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:52:29+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2015-04-04T21:52:29+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:52:29+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:52:38+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2015-04-04T21:52:39+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2015-04-04T21:52:39+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:52:39+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:52:43+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2015-04-04T21:52:43+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:52:43+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:52:52+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+
+[ 2015-04-04T21:52:53+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2015-04-04T21:52:53+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:52:53+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:52:58+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001482s ]
+
+[ 2015-04-04T21:52:58+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:52:58+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:53:06+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2015-04-04T21:53:07+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2015-04-04T21:53:07+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:53:07+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:53:16+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2015-04-04T21:53:16+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:53:16+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:53:26+08:00 ] 127.0.0.1 /index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2015-04-04T21:53:27+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2015-04-04T21:53:27+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:53:27+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:56:22+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+
+[ 2015-04-04T21:56:22+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:56:22+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:56:42+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2015-04-04T21:56:42+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:56:42+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:57:00+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2015-04-04T21:57:00+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:57:00+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:57:03+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2015-04-04T21:57:03+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:57:03+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:57:49+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+
+[ 2015-04-04T21:57:49+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:57:49+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:57:52+08:00 ] 127.0.0.1 /index.php/Home/Admin/pdel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 非法操作:pdel
+
+[ 2015-04-04T21:58:23+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2015-04-04T21:58:23+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:58:23+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:58:25+08:00 ] 127.0.0.1 /index.php/Home/Admin/edit/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2015-04-04T21:58:25+08:00 ] 127.0.0.1 /index.php/Home/Admin/edit/id/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2015-04-04T21:58:25+08:00 ] 127.0.0.1 /index.php/Home/Admin/edit/id/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2015-04-04T21:58:46+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-04-04T21:58:46+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:58:46+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T21:58:48+08:00 ] 127.0.0.1 /index.php/Home/Admin/edit/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2015-04-04T21:58:48+08:00 ] 127.0.0.1 /index.php/Home/Admin/edit/id/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-04-04T21:58:48+08:00 ] 127.0.0.1 /index.php/Home/Admin/edit/id/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2015-04-04T21:58:51+08:00 ] 127.0.0.1 /index.php/Home/Admin/del/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2015-04-04T21:59:11+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2015-04-04T21:59:11+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T21:59:11+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T22:00:32+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001211s ]
+
+[ 2015-04-04T22:00:32+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T22:00:32+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T22:28:45+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2015-04-04T22:28:45+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T22:28:45+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T22:29:06+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2015-04-04T22:29:06+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T22:29:06+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T22:30:23+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2015-04-04T22:30:23+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T22:30:23+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T22:30:32+08:00 ] 127.0.0.1 /index.php/Home/Admin/pdel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 非法操作:pdel
+
+[ 2015-04-04T22:31:32+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2015-04-04T22:31:32+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T22:31:32+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T22:31:33+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2015-04-04T22:31:41+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2015-04-04T22:31:53+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2015-04-04T22:33:05+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2015-04-04T22:33:05+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T22:33:05+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T22:33:07+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002575s ]
+
+[ 2015-04-04T22:33:20+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2015-04-04T22:33:37+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2015-04-04T22:33:40+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003386s ]
+
+[ 2015-04-04T22:33:40+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T22:33:40+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T22:33:40+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2015-04-04T22:34:45+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2015-04-04T22:34:45+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T22:34:45+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T22:34:48+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2015-04-04T22:35:08+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2015-04-04T22:35:31+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2015-04-04T22:35:36+08:00 ] 127.0.0.1 /index.php/Home/Admin/ddel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2015-04-04T23:57:06+08:00 ] 127.0.0.1 /index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2015-04-04T23:57:06+08:00 ] 127.0.0.1 /index.php/Home/Admin/__CSS__/skin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 非法操作:__CSS__
+
+[ 2015-04-04T23:57:06+08:00 ] 127.0.0.1 /index.php/Home/Admin/__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 非法操作:__JS__
+
+[ 2015-04-04T23:59:25+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+
+[ 2015-04-04T23:59:25+08:00 ] 127.0.0.1 /index.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2015-04-04T23:59:25+08:00 ] 127.0.0.1 /index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2015-04-04T23:59:25+08:00 ] 127.0.0.1 /index.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-04-04T23:59:28+08:00 ] 127.0.0.1 /index.php/Home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2015-04-04T23:59:28+08:00 ] 127.0.0.1 /index.php/Home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2015-04-04T23:59:29+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+
+[ 2015-04-04T23:59:29+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2015-04-04T23:59:30+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.5977380570262059
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2015-04-04T23:59:31+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.10157581400973748
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2015-04-04T23:59:31+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.007368718815346287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2015-04-04T23:59:31+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.03389609508516078
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2015-04-04T23:59:33+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.961744237371729
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2015-04-04T23:59:34+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.7795150033610874
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2015-04-04T23:59:34+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.14714106021655848
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2015-04-04T23:59:35+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.9444819305469754
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2015-04-04T23:59:36+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.38134844446777305
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+
+[ 2015-04-04T23:59:39+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.36464751896004954
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2015-04-04T23:59:42+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.12218943825799056
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2015-04-04T23:59:43+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.8117261469693341
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2015-04-04T23:59:43+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.4188274533338171
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2015-04-04T23:59:44+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.19230373872030748
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2015-04-04T23:59:45+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.7812818419135888
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2015-04-04T23:59:46+08:00 ] 127.0.0.1 /index.php/Home/Login/ccode/0.7423460920736705
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2015-04-04T23:59:56+08:00 ] 127.0.0.1 /index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2015-04-04T23:59:57+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+
+[ 2015-04-04T23:59:57+08:00 ] 127.0.0.1 /index.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2015-04-04T23:59:57+08:00 ] 127.0.0.1 /index.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2015-04-04T23:59:57+08:00 ] 127.0.0.1 /index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
