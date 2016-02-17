@@ -1,0 +1,92 @@
+<layout name="./Public/layout" />
+
+<div class="banner">
+  <section class="box">
+    <ul class="texts">
+      <p><?php echo $msg[0]['msg1'];?></p>
+      <p><?php echo $msg[0]['msg2'];?></p>
+      <p><?php echo $msg[0]['msg3'];?></p>
+    </ul>
+    <div class="avatar"><a href="__MODULE__/About/index"><span>杨松</span></a> </div>
+  </section>
+</div>
+<div class="template">
+  <div class="box">
+    <h3><p><span>个人博客</span>模板 Templates</p></h3>
+
+
+    <ul>
+      <?php foreach($top_arcs as $top):?>
+      <li>
+        <a href="__MODULE__/Article/detail/id/<?php echo $top['id']?>" title="<?php echo $top['title']?>" >
+        <img src="<?php echo IMG_URL . $top['arc_pic']?>" alt="<?php echo $top['title']?>">
+        </a>
+        <span><?php echo $top['title']?></span>
+      </li>
+       <?php endforeach;?>
+    </ul>
+
+
+  </div>
+</div>
+<article>
+  <h2 class="title_tj">
+    <p>文章<span>推荐</span></p>
+  </h2>
+<!--文章推荐-->
+  <div class="bloglist left">
+<?php foreach($arc_list as $v):?>
+
+    <h3><a href="__MODULE__/Article/detail/id/<?php echo $v['id']?>" ><?php echo $v['title']?></a></h3>
+    <figure><img src="<?php echo IMG_URL . $v['arc_pic']?>" alt="<?php echo $v['title']?>"></figure>
+    <ul>
+      <p><?php echo $v['remark']?></p>
+      <a title="<?php echo $v['title']?>" href="__MODULE__/Article/detail/id/<?php echo $v['id']?>"  target="_blank" class="readmore">阅读全文>></a>
+    </ul>
+    <p class="dateview"><span><?php echo date('Y-m-d', $v['addtime'])?></span><span>作者：<?php echo $v['author']?></span><span>个人博客：[<a href=__MODULE__/Article/index/id/<?php echo $v['cat_id']?>><?php echo $v['catname']?></a>]</span></p>    
+    
+<?php endforeach;?>
+  </div>
+
+  <aside class="right">
+    <div class="weather"></div>
+    <div class="news">
+<!--最新文章-->
+    <h3>
+      <p>最新<span>文章</span></p>
+    </h3>
+    <ul class="rank">
+<?php foreach($new_arcs as $vv):?>
+
+       <li><a href="__MODULE__/Article/detail/id/<?php echo $vv['id']?>" title="<?php echo $vv['title']?>" target="_blank"><?php echo $vv['title']?></a></li>
+<?php endforeach;?>
+    </ul>
+<!--点击排行-->
+    <h3 class="ph">
+      <p>模板<span>排行</span></p>
+    </h3>
+    <ul class="paih">
+<?php foreach($click_arcs as $vvv):?>
+     <li><a href="__MODULE__/Article/detail/id/<?php echo $vvv['id']?>" title="<?php echo $vvv['title']?>" target="_blank"> <?php echo $vvv['title']?></a></li>
+<?php endforeach;?>
+    </ul>
+
+<!--友情链接-->
+    <h3 class="links">
+      <p>友情<span>链接</span></p>
+    </h3>
+    <ul class="website">
+  <?php foreach($links as $li):?>
+      <li><a href="<?php echo $li['link_url']?>" target="_blank"><?php echo $li['link_name']?></a></li>
+  <?php endforeach;?>
+    </ul>     
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"32"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<div class="guanzhu">扫描二维码关注<span>杨松博客</span>官方微信公众账号</div>   
+    <a href="/" class="weixin"></a></aside>
+</article>
+
+<div id="tbox"> <a id="togbook" href="/"></a> <a id="gotop" href="javascript:void(0)"></a> </div>
+
+

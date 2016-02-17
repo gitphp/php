@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>HouDun许愿墙</title>
+	<link rel="stylesheet" href="__PUBLIC__/Home/css/wish.css" />
+	<script type="text/javascript" src='__PUBLIC__/Home/js/jquery-1.9.1.min.js'></script>
+	<script type="text/javascript" src='__PUBLIC__/Home/js/wish.js'></script>
+	<script>
+		$(function(){
+			$('#send-btn').click(function(){
+				var username=$('#username').val();
+				var content=$('#content').val();
+				var data={'username':username,'content':content};
+				$.ajax({
+					url:'__CONTROLLER__/addAjaxData',
+					data:data,
+					type:'post',
+					success:function(msg){
+						alert(msg);
+					}
+					
+				});
+			});
+		});
+	</script>
+</head>
+<body>
+     
+
+
+	<div id='top'>
+		<span id='send'></span>
+	</div>
+	<span id='fanhui'><a href='/'>返回主页</a></span>
+	<div id='main'>
+	<foreach name='data' item='v'>
+	   
+	   		<dl class='paper a{:mt_rand(1,5)}'>
+			<dt>
+				<span class='username'>{$v['username']}</span>
+				<span class='num'>No.{$v['id']}</span>
+			</dt>
+			<dd class='content'>{$v['content']|replace_phiz}</dd>
+			<dd class='bottom'>
+				<span class='time'>{$v.addtime|date='Y-m-d H:i:s',###}</span>
+				<a href="" class='close'></a>
+			</dd>
+		</dl>
+
+	   
+	</foreach>
+
+		
+		
+		
+
+	</div>
+
+	<div id='send-form'>
+		<p class='title'><span>许下你的愿望</span><a href="" id='close'></a></p>
+		<form action="{:U('handle')}" method="post" name='wish'>
+			<p>
+				<label for="username">昵称：</label>
+				<input type="text" name='username' id='username'/>
+			</p>
+			<p>
+				<label for="content">愿望：(您还可以输入&nbsp;<span id='font-num'>50</span>&nbsp;个字)</label>
+				<textarea name="content" id='content'></textarea>
+				<div id='phiz'>
+					<img src="__PUBLIC__/Home/images/wish/phiz/zhuakuang.gif" alt="抓狂" />
+					<img src="__PUBLIC__/Home/images/wish/phiz/baobao.gif" alt="抱抱" />
+					<img src="__PUBLIC__/Home/images/wish/phiz/haixiu.gif" alt="害羞" />
+					<img src="__PUBLIC__/Home/images/wish/phiz/ku.gif" alt="酷" />
+					<img src="__PUBLIC__/Home/images/wish/phiz/xixi.gif" alt="嘻嘻" />
+					<img src="__PUBLIC__/Home/images/wish/phiz/taikaixin.gif" alt="太开心" />
+					<img src="__PUBLIC__/Home/images/wish/phiz/touxiao.gif" alt="偷笑" />
+					<img src="__PUBLIC__/Home/images/wish/phiz/qian.gif" alt="钱" />
+					<img src="__PUBLIC__/Home/images/wish/phiz/huaxin.gif" alt="花心" />
+					<img src="__PUBLIC__/Home/images/wish/phiz/jiyan.gif" alt="挤眼" />
+				</div>
+			</p>
+			<span id='send-btn'></span>
+			
+		</form>
+	</div>
+<!--[if IE 6]>
+    <script type="text/javascript" src="__PUBLIC__/Js/iepng.js"></script>
+    <script type="text/javascript">
+        DD_belatedPNG.fix('#send,#close,.close','background');
+    </script>
+<![endif]-->
+</body>
+</html>

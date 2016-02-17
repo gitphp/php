@@ -1,0 +1,61 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<css href="__PUBLIC__/Wife/css/admin.css"/>
+<css href="__PUBLIC__/Wife/css/public.css"/>
+<js href="__PUBLIC__/Wife/js/jquery-1.7.1.js"/>
+<js href="__PUBLIC__/Wife/js/public.js"/>
+</head>
+<body>
+<div id="main">
+	<div class="title">用户管理</div>
+	<div class="content">
+<span>
+<form method="post" action="{:U('addData')}">
+  <table width="98%" border="0" cellspacing="0" cellpadding="0" class="mytab">
+    <tr>
+      <td colspan="11" class="tit">用户管理</td>
+      </tr>
+    <tr>
+      <td  align="center">编号
+      <td>用户名</td>
+      <td>昵称</td>
+      <td>真实姓名</td>
+      <td>邮箱</td>
+      <td>电话</td>
+      <td>QQ</td>
+      <td>性别</td>
+      <td align="left">登陆时间</td>
+      <td align="left">登陆IP</td>
+      <td align="left">操作</td>
+    </tr>
+<?php foreach($data as $v):?>
+    <tr>
+      <td align="center"><?php echo $v['id']?></td>
+      <td><?php echo $v['username']?></td>
+      <td><?php echo $v['nickname']?></td>
+      <td><?php echo $v['real_name']?></td>
+      <td><?php echo $v['user_email']?></td>
+      <td><?php echo $v['user_tel']?></td>
+      <td><?php echo $v['user_qq']?></td>
+      <td><?php echo $v['user_sex']==1?'男':'女'?></td>
+      <td><?php echo date('Y-m-d',$v['login_time'])?></td>
+      <td><?php echo $v['login_ip']?></td>
+      <td align="left"><a href="__URL__/adduser/id/<?php echo $v['id']?>"><img src="__PUBLIC__/Wife/images/icon_edit.gif" title="查看|编辑"/></a>&nbsp;<a href="__URL__/del/id/{$vo.id}/pics/{$vo.job_pics}/act/one"><img src="__PUBLIC__/Wife/images/icon_trash.gif" title="回收站" onClick="return confirm('您确定要将它移到回收站吗')"/></a></td>
+    </tr>
+<?php endforeach;?>
+	<if condition="$data eq ''">
+	<tr><td align="center" colspan="5"><b>没有数据...</b></td></tr>
+	<else/>
+    <tr>
+      <td colspan="11" align="center"><div class="yahoo2">{$page}</div></td>
+      </tr>
+	</if>
+  </table>
+</form>
+</span>
+	</div>
+</div>
+</body>
+</html>
+

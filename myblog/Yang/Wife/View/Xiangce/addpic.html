@@ -1,0 +1,72 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<css href="__PUBLIC__/Wife/css/admin.css"/>
+<js href="__PUBLIC__/Wife/js/jquery-1.7.1.js"/>
+<style type="text/css">
+td ul li{margin-left:6px;}
+td.tit input{display:block; background:#fff; border:0; border:1px solid #BBDDE5}
+</style>
+</head>
+<body>
+<div id="main">
+	<div class="title">添加图片</div>
+	<div class="content">
+<if condition="($pics eq '')">
+<form method="post" action="__SELF__" enctype="multipart/form-data">
+  <table width="98%" border="0" cellpadding="0" cellspacing="0" class="mytab">
+    <tr>
+      <td colspan="2" class="tit">我的相册</td>
+      </tr>
+    <tr>
+      <td><font style="color:blue; font-weight:900">相片名字:</font></td>
+      <td align="left"><input type="text" name="pic_name" size='44' />
+        <span class="add">&nbsp;&nbsp;</span></td>
+    </tr>
+    <tr>
+      <td><font style="color:blue; font-weight:900">选择相册:</font></td>
+      <td align="left">
+      	<select name='xc_id'>
+      	<?php foreach($data as $v):?>
+      		<option value='<?php echo $v['id']?>'><?php echo $v['xc_name']?></option>
+      	<?php endforeach;?>
+      	</select>
+      </td>
+    </tr>
+    <tr>
+      <td><font style="color:blue; font-weight:900">上传相片:</font></td>
+      <td align="left"><input type="file" name="pic_url" />
+        <span class="add">&nbsp;&nbsp;</span></td>
+    </tr>
+  <tr>
+      <td>&nbsp;</td>
+      <td align="left"><input type="submit" name="aa" value="保存图片"/><input type="button" value="返回上一步" onClick="javscript:history.back()"/></td>
+    </tr>
+	</table>
+</form>
+<else/>
+<form method="post" action="{:U('addPic')}" enctype="multipart/form-data" style="display:inline;">
+<table width="98%" border="0" cellpadding="0" cellspacing="0" class="mytab">
+<tr><td class="tit">公司相册<a href="javascript:void(0)" class="ad"><span class="tit" style="color:blue; margin-left:6px;">继续添加</span></a><input type="submit" value="添加" style="display:none"/></td></tr>
+<tr><td>
+<ul style="overflow:auto; width:100% ">
+	<input type="hidden" name="filename" value="gspic"/>
+	<input type="hidden" name="field" value="gspic"/>
+	
+	<php>
+	$pics = rtrim($pics,'-');
+	$pics = explode('-',$pics);
+	foreach($pics as $pic){
+		echo '<li style="width:200px; height:240px; text-align:center; margin-top:10px; float:left"><img src="__PUBLIC__/Uploads/gspic/s_'.$pic.'" width="200" height="200"/><br><span id="'.$pic.'" class="del">删除</span></li>';
+	}	
+	</php>
+</ul>
+</if>
+</td></tr>
+</table>
+</form>
+</div>
+</div>
+</body>
+</html>
+

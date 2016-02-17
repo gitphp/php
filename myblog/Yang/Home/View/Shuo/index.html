@@ -1,0 +1,29 @@
+<layout name="./Public/layout" />
+
+<div class="moodlist">
+  <h1 class="t_nav"><span>写写姗姗，点点滴滴，生活本应如此，却还是继续坚持。</span><a href="/" class="n1">网站首页</a><a href="#" class="n2">细说细雨</a></h1>
+  <div class="bloglist">
+
+  <?php foreach($data as $v):?>
+    <ul class="arrow_box">
+     <div class="sy">
+     <p>
+     <?php 
+     	if ($v['img_url']) {
+
+     	echo "<img width='150px' src='" . IMG_URL.$v['img_url'] ."' alt='" . substr($v['content'],0,30) ."' />";
+     	}
+     	echo $v['content'];
+     ?>
+     
+     </p>
+     </div>
+      <span class="dateview"><?php echo date('Y-m-d',$v['addtime']);?></span>
+    </ul>    
+  <?php endforeach;?>
+
+  </div>
+
+<?php echo $page?>
+
+<div id="tbox"> <a id="togbook" href="__MODULE__/Message/index"></a> <a id="gotop" href="javascript:void(0)"></a> </div>

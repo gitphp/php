@@ -1,0 +1,43 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<css href="__PUBLIC__/Wife/css/admin.css"/>
+<js href="__PUBLIC__/Wife/js/jquery-1.7.1.js"/>
+<js href="__PUBLIC__/Wife/js/public.js"/>
+</head>
+<body>
+<div id="main">
+	<div class="title">我的说说</div>
+	<div class="content">
+<span>
+<form method="post" action="{:U('addData')}">
+<table width="98%" border="0" cellpadding="0" cellspacing="0" class="mytab">
+  <tr>
+    <td colspan="5" class="tit">说说管理&nbsp;<a href="{:U('add')}" style="color:#FF6633"><b>[添加]</b></a></td>
+    </tr>
+  <tr>
+    <td width="5%" align="center">图片</td>
+    <td width="71%" align="center">内容</td>
+    <td width="8%" align="center">添加时间</td>
+    <td width="10%" align="center">操作</td>
+  </tr>
+  <?php foreach($data as $v):?>
+  <tr>
+    <td><img width='150px' height='50px' src='<?php echo IMG_URL.$v['img_url']?>' /></td>
+    <td><?php echo $v['content']; ?></td>
+    <td align="center"><?php echo date('Y-m-d',$v['addtime']); ?></td>
+    <td><a href="__CONTROLLER__/add"><img src="__PUBLIC__/Wife/images/icon_edit.gif" title="查看|编辑"/></a>&nbsp;<a href="__CONTROLLER__/del/id/<?php echo $v['id'];?>"><img src="__PUBLIC__/Wife/images/icon_trash.gif" title="回收站" onClick="return confirm('您确定要将它移到回收站吗')"/></a></td>
+  </tr>
+  <?php endforeach;?>
+
+</table>
+<tr>
+  <td colspan="7" align="center"><div class="yahoo2">{$page}</div></td>
+</tr>
+</form>
+</span>
+	</div>
+</div>
+</body>
+</html>
+

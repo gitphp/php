@@ -1,0 +1,116 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<css href="__PUBLIC__/Wife/css/admin.css"/>
+<js href="__PUBLIC__/Wife/js/jquery-1.7.1.js"/>
+<js href="__PUBLIC__/My97DatePicker/WdatePicker.js"/>
+<!--时间插件-->
+<script src="__PUBLIC__/datepicker/jquery-ui-1.9.2.custom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/datepicker/jquery-ui-1.9.2.custom.min.css">
+<script>
+$(function(){
+$('.editpic').click(function(){
+	$('#file').after('<br/><input type="file" name="l_logo"/><br/');
+})
+})
+</script>
+</head>
+<body>
+<div id="main">
+	<div class="title">友情链接管理</div>
+	<div class="content">
+<form method="post" action="{:U('addData')}" enctype="multipart/form-data">
+  <table width="98%" border="0" cellspacing="0" cellpadding="0" class="mytab">
+    <tr>
+      <td colspan="3" class="tit">添加友情链接</td>
+      </tr>
+    <tr>
+      <td width="189" align="center">友情链接标题
+      <td width="579"><input type="text" class="inp" name="link_name" value=""/></td>
+      <td width="350" align="left">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="189" align="center">链接图标</td>
+      <td width="579"><input type="file" name="l_logo"/></td>
+      <td width="350" align="left">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="189" align="center">主页地址</td>
+      <td width="579"><input type="text" class="inp" name="link_url" value="http://"/> 
+      *请勿删除http:// </td>
+      <td width="350" align="left">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">开始时间</td>
+      <td><input type="text" class="inp" name="start_time" id='stime'/>
+      </td>
+      <td align="left">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">到期时间</td>
+      <td><input id='etime' type="text" class="inp" name="end_time" />
+      </td>
+    </tr>
+    <tr>
+      <td width="189" align="center">状态</td>
+      <td width="579">
+      <input type="radio" name="is_show" value="1" />显示
+      <input type="radio" name="is_show" value="0" />停用</td>
+      <td width="350" align="left">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="189" align="center">链接描述</td>
+      <td width="579"><textarea name='link_desc' cols='33' rows='5'></textarea></td>
+      <td width="350" align="left">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="189">&nbsp;</td>
+      <td width="579"><input type="submit" class="sub" value="保存"/>&nbsp;
+        <input name="button" type="button" onClick="javascript:history.back()" value="返回上一步"/></td>
+      <td width="350" align="left">&nbsp;</td>
+    </tr>
+  </table>
+  <if condition="$list.act eq 'edit'"><input type="hidden" name="act" value="edit"/><input type="hidden" name="id" value="{$list.id}"/></if>
+</form>
+	</div>
+</div>
+</body>
+</html>
+<!--时间插件-->
+<script type="text/javascript">
+  $.datepicker.regional['zh-CN'] = {
+          clearText: '清除',
+          clearStatus: '清除已选日期',
+          closeText: '关闭',
+          closeStatus: '不改变当前选择',
+          prevText: '<上月',
+          prevStatus: '显示上月',
+          prevBigText: '<<',
+          prevBigStatus: '显示上一年',
+          nextText: '下月>',
+          nextStatus: '显示下月',
+          nextBigText: '>>',
+          nextBigStatus: '显示下一年',
+          currentText: '今天',
+          currentStatus: '显示本月',
+          monthNames: ['一月','二月','三月','四月','五月','六月', '七月','八月','九月','十月','十一月','十二月'],
+          monthNamesShort: ['一','二','三','四','五','六', '七','八','九','十','十一','十二'],
+          monthStatus: '选择月份',
+          yearStatus: '选择年份',
+          weekHeader: '周',
+          weekStatus: '年内周次',
+          dayNames: ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'],
+          dayNamesShort: ['周日','周一','周二','周三','周四','周五','周六'],
+          dayNamesMin: ['日','一','二','三','四','五','六'],
+          dayStatus: '设置 DD 为一周起始',
+          dateStatus: '选择 m月 d日, DD',
+          dateFormat: 'yy-mm-dd',
+          firstDay: 1,
+          initStatus: '请选择日期',
+          isRTL: false
+      };
+  $.datepicker.setDefaults($.datepicker.regional['zh-CN']);
+  $('#stime').datepicker();
+      //开班时间
+  $("#etime").datepicker();
+</script>
