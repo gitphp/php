@@ -33,7 +33,7 @@ class wechatCallbackapiTest
     public function responseMsg()
     {
 		//get post data, May be due to the different environments
-        //接收用户传递的数据
+        //接收用户传递的数据，一般而言，使用 php://input 代替 $HTTP_RAW_POST_DATA。
 		$postStr = $GLOBALS["HTTP_RAW_POST_DATA"];
 
       	//extract post data

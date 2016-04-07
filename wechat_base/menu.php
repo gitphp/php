@@ -5,13 +5,15 @@
 //初始化
 $ch = curl_init();
 //设置参数
-$url = 'https://api.weixin.qq.com/cgi-bin/menu/create?access_token=6ppqO-e7PD7Ppz0Q-xwRfHafqNahl8G2VxkqeTuFTIMNeJLGre8IT01-gilrr6USRYJPLxPRO-PxHR2UYKv6s4_G4ecL5gF7US5KBwU8BWU';
+$url = 'https://api.weixin.qq.com/cgi-bin/menu/create?access_token=E_V1jj-hLoemi3MZ3wnE6kHnRLArJJRO--NO1-xriUF_Z_cTixkM832dY7QkPUM3SmJzH9ADPNU1-ypT-qMMGYVLuIsI9ZJBEdJ3F6P0p7ht0gbhivMvKQyXyv5D5fhlPZOdABAWGV';
 curl_setopt($ch,CURLOPT_URL, $url);
 curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
 //禁止腾讯服务器端校验SSL证书
 curl_setopt($ch,CURLOPT_SSL_VERIFYHOST,false);
 curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,false);
 curl_setopt($ch,CURLOPT_POST,1);
+
+
 $data = '{
      "button":[
       {
@@ -69,3 +71,7 @@ if($output === false){
 }
 //关闭curl
 curl_close($ch);
+
+//{"access_token":"E_V1jj-hLoemi3MZ3wnE6kHnRLArJJRO--NO1-xriUF_Z_cTixkM832dY7QkPUM3SmJzH9ADPNU1-ypT-qMMGYVLuIsI9ZJBEdJ3F6P0p7ht0gbhivMvKQyXyv5D5fhlPZOdABAWGV","expires_in":7200}
+
+//https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx9cdaef952ca5b99a&secret=860eb808259daf6704620bf4c850259e
