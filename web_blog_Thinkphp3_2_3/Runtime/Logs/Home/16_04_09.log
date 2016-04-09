@@ -1,0 +1,915 @@
+[ 2016-04-09T10:38:29+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:29+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:38:30+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:30+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:38:30+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:30+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:38:31+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:31+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:38:31+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:31+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:38:31+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:31+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:38:31+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:31+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:38:31+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:32+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:38:32+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:32+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:38:32+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:32+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:38:33+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+NOTIC: [2] include(): Filename cannot be empty /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/Applications/MAMP/bin/php/php5.6.10/lib/php') /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2016-04-09T10:38:33+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1532 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1534 行.
+
+[ 2016-04-09T10:39:36+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lt_article` [ RunTime:0.0341s ]
+SQL: SHOW COLUMNS FROM `lt_link` [ RunTime:0.0084s ]
+SQL: SHOW COLUMNS FROM `lt_system` [ RunTime:0.0371s ]
+SQL: SHOW COLUMNS FROM `lt_album` [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `lt_gust` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `lt_say` [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `lt_tag` [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `lt_version` [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `lt_picture` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `lt_album_c` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `lt_say_c` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `lt_tag` WHERE `t_view` = 1  [ RunTime:0.0198s ]
+SQL: SELECT * FROM `lt_system` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `v_version` FROM `lt_version` ORDER BY v_id desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id` FROM `lt_article` WHERE `a_view` = 2  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 110 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 112 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 113 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 114 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 115 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_say_c` WHERE ( sc_rtime != 0 ) LIMIT 1   [ RunTime:0.0447s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_article_c` WHERE ( ac_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_album_c` WHERE ( alc_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_say` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_article` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_gust` WHERE ( g_rtime != 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_album` WHERE `al_view` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_picture` WHERE `p_view` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_link` WHERE ( l_view != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `lt_system` SET `hit`=hit+1 WHERE ( id=1 ) [ RunTime:0.0698s ]
+SQL: SELECT * FROM `lt_album` WHERE `al_view` = 1 LIMIT 9   [ RunTime:0.0002s ]
+SQL: SELECT `a_keyword`,`a_id`,`a_time` FROM `lt_article` WHERE ( a_keyword != '' and a_view > 0 ) ORDER BY a_time desc  [ RunTime:0.0008s ]
+SQL: SELECT `a_id` FROM `lt_article` WHERE ( a_view != 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 110 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 111 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 113 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_link` WHERE `l_view` = 2 ORDER BY l_sort  [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Application/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0021s ]
+SQL: SELECT `ac_time` FROM `lt_article_c` WHERE ( ac_rtime>0 ) UNION ALL SELECT sc_time FROM lt_say_c WHERE sc_rtime != 0 UNION ALL SELECT alc_time FROM lt_album_c WHERE alc_rtime >0 order by ac_time desc limit 0,5 [ RunTime:0.0012s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453865568 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_gust` WHERE ( g_rtime>0 ) ORDER BY g_time desc LIMIT 5   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lt_article` WHERE ( a_view != 0 ) ORDER BY a_hit desc LIMIT 7   [ RunTime:0.0005s ]
+SQL: SELECT `a_time` FROM `lt_article` ORDER BY a_time desc LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `s_time` FROM `lt_say` ORDER BY s_time desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `al_time` FROM `lt_album` ORDER BY al_time desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` INNER JOIN lt_tag ON lt_tag.t_id = lt_article.pid  WHERE ( a_view > 0 ) ORDER BY a_time desc LIMIT 0,6   [ RunTime:0.0363s ]
+SQL: SHOW COLUMNS FROM `lt_ppt` [ RunTime:0.0470s ]
+SQL: SELECT * FROM `lt_ppt` WHERE `pp_view` = 1 ORDER BY pp_time desc LIMIT 3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000322s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] Undefined variable: about /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 52 行.
+NOTIC: [8] Undefined variable: class /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 53 行.
+NOTIC: [8] Undefined variable: feel /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 60 行.
+NOTIC: [8] Undefined variable: album /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 61 行.
+NOTIC: [8] Undefined variable: friends /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 62 行.
+NOTIC: [8] Undefined variable: gust /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 63 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 170 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 170 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 170 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 170 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 170 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 204 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 204 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 204 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 204 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.134899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.134984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000523s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2016-04-09T10:40:02+08:00 ] ::1 /article-115.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lt_article` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `lt_link` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `lt_system` [ RunTime:0.0403s ]
+SQL: SHOW COLUMNS FROM `lt_album` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lt_gust` [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `lt_say` [ RunTime:0.0064s ]
+SQL: SHOW COLUMNS FROM `lt_tag` [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `lt_version` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `lt_picture` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lt_album_c` [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `lt_say_c` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `lt_tag` WHERE `t_view` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_system` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `v_version` FROM `lt_version` ORDER BY v_id desc LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `a_id` FROM `lt_article` WHERE `a_view` = 2  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 111 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 112 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 113 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 114 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 115 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_say_c` WHERE ( sc_rtime != 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_article_c` WHERE ( ac_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_album_c` WHERE ( alc_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_say` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_article` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_gust` WHERE ( g_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_album` WHERE `al_view` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_picture` WHERE `p_view` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_link` WHERE ( l_view != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `lt_system` SET `hit`=hit+1 WHERE ( id=1 ) [ RunTime:0.0143s ]
+SQL: SELECT * FROM `lt_album` WHERE `al_view` = 1 LIMIT 9   [ RunTime:0.0003s ]
+SQL: SELECT `a_keyword`,`a_id`,`a_time` FROM `lt_article` WHERE ( a_keyword != '' and a_view > 0 ) ORDER BY a_time desc  [ RunTime:0.0004s ]
+SQL: SELECT `a_id` FROM `lt_article` WHERE ( a_view != 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 110 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 111 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 115 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_link` WHERE `l_view` = 2 ORDER BY l_sort  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Application/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0046s ]
+SQL: SELECT `ac_time` FROM `lt_article_c` WHERE ( ac_rtime>0 ) UNION ALL SELECT sc_time FROM lt_say_c WHERE sc_rtime != 0 UNION ALL SELECT alc_time FROM lt_album_c WHERE alc_rtime >0 order by ac_time desc limit 0,5 [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_gust` WHERE ( g_rtime>0 ) ORDER BY g_time desc LIMIT 5   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article` WHERE ( a_view != 0 ) ORDER BY a_hit desc LIMIT 7   [ RunTime:0.0004s ]
+SQL: SELECT `a_time` FROM `lt_article` ORDER BY a_time desc LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `s_time` FROM `lt_say` ORDER BY s_time desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `al_time` FROM `lt_album` ORDER BY al_time desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 115 AND ( a_view != 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article` INNER JOIN lt_tag ON lt_tag.t_id = lt_article.pid  WHERE lt_article.a_id = '115' LIMIT 1   [ RunTime:0.0350s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_pid` = 115 AND ( ac_rtime >0 ) ORDER BY ac_time desc LIMIT 5   [ RunTime:0.0003s ]
+SQL: UPDATE `lt_article` SET `a_hit`=a_hit+1 WHERE `a_id` = 115 [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lt_article` WHERE ( a_view !=0 AND a_id <115 ) ORDER BY a_id desc LIMIT 1   [ RunTime:0.0217s ]
+SQL: SELECT * FROM `lt_article` WHERE ( a_view !=0 AND a_id >115 ) ORDER BY a_id LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Undefined variable: index /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 57 行.
+NOTIC: [8] Undefined variable: about /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 58 行.
+NOTIC: [8] Undefined variable: feel /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 66 行.
+NOTIC: [8] Undefined variable: album /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 67 行.
+NOTIC: [8] Undefined variable: friends /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 68 行.
+NOTIC: [8] Undefined variable: gust /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 69 行.
+NOTIC: [8] Undefined variable: 1 /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 82 行.
+NOTIC: [8] Undefined variable: v /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 85 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 109 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 246 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 246 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 246 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 246 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 246 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 280 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 280 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 280 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 280 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.083169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004785s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001051s ]
+
+[ 2016-04-09T10:40:03+08:00 ] ::1 /Home/Common/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lt_article` [ RunTime:0.0464s ]
+SQL: SHOW COLUMNS FROM `lt_link` [ RunTime:0.0626s ]
+SQL: SHOW COLUMNS FROM `lt_system` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `lt_album` [ RunTime:0.1215s ]
+SQL: SHOW COLUMNS FROM `lt_gust` [ RunTime:0.0329s ]
+SQL: SHOW COLUMNS FROM `lt_say` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `lt_tag` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `lt_version` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `lt_picture` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lt_album_c` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `lt_say_c` [ RunTime:0.0196s ]
+SQL: UPDATE `lt_system` SET `hit`=hit+1 WHERE ( id=1 ) [ RunTime:0.0025s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Application/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0034s ]
+SQL: SELECT `ac_time` FROM `lt_article_c` WHERE ( ac_rtime>0 ) UNION ALL SELECT sc_time FROM lt_say_c WHERE sc_rtime != 0 UNION ALL SELECT alc_time FROM lt_album_c WHERE alc_rtime >0 order by ac_time desc limit 0,5 [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1455780910 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1455780910 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1455780910 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1454989070 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1454989070 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1454989070 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453865568 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453865568 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453803869 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453803869 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453803869 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453767610 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453767610 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453767610 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] ob_clean(): failed to delete buffer. No buffer to delete /Users/xingyamac/shopping/blog/Application/Home/Controller/CommonController.class.php 第 115 行.
+NOTIC: [8] A non well formed numeric value encountered /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 166 行.
+NOTIC: [8] A non well formed numeric value encountered /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 166 行.
+NOTIC: [8] A non well formed numeric value encountered /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 166 行.
+NOTIC: [8] A non well formed numeric value encountered /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 166 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 178 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 179 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 180 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 181 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000811s ]
+
+[ 2016-04-09T10:40:17+08:00 ] ::1 /index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lt_article` [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `lt_link` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `lt_system` [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `lt_album` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `lt_gust` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lt_say` [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `lt_tag` [ RunTime:0.0071s ]
+SQL: SHOW COLUMNS FROM `lt_version` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `lt_picture` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `lt_album_c` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `lt_say_c` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `lt_tag` WHERE `t_view` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_system` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `v_version` FROM `lt_version` ORDER BY v_id desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id` FROM `lt_article` WHERE `a_view` = 2  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 110 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 111 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 112 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 113 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 114 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_say_c` WHERE ( sc_rtime != 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_article_c` WHERE ( ac_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_album_c` WHERE ( alc_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_say` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_article` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_gust` WHERE ( g_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_album` WHERE `al_view` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_picture` WHERE `p_view` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_link` WHERE ( l_view != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `lt_system` SET `hit`=hit+1 WHERE ( id=1 ) [ RunTime:0.0097s ]
+SQL: SELECT * FROM `lt_album` WHERE `al_view` = 1 LIMIT 9   [ RunTime:0.0002s ]
+SQL: SELECT `a_keyword`,`a_id`,`a_time` FROM `lt_article` WHERE ( a_keyword != '' and a_view > 0 ) ORDER BY a_time desc  [ RunTime:0.0002s ]
+SQL: SELECT `a_id` FROM `lt_article` WHERE ( a_view != 0 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 112 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 114 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 115 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_link` WHERE `l_view` = 2 ORDER BY l_sort  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Application/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0014s ]
+SQL: SELECT `ac_time` FROM `lt_article_c` WHERE ( ac_rtime>0 ) UNION ALL SELECT sc_time FROM lt_say_c WHERE sc_rtime != 0 UNION ALL SELECT alc_time FROM lt_album_c WHERE alc_rtime >0 order by ac_time desc limit 0,5 [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453865568 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_gust` WHERE ( g_rtime>0 ) ORDER BY g_time desc LIMIT 5   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lt_article` WHERE ( a_view != 0 ) ORDER BY a_hit desc LIMIT 7   [ RunTime:0.0004s ]
+SQL: SELECT `a_time` FROM `lt_article` ORDER BY a_time desc LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `s_time` FROM `lt_say` ORDER BY s_time desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `al_time` FROM `lt_album` ORDER BY al_time desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` INNER JOIN lt_tag ON lt_tag.t_id = lt_article.pid  WHERE ( a_view > 0 ) ORDER BY a_time desc LIMIT 0,6   [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `lt_ppt` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `lt_ppt` WHERE `pp_view` = 1 ORDER BY pp_time desc LIMIT 3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] Undefined variable: about /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 52 行.
+NOTIC: [8] Undefined variable: class /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 53 行.
+NOTIC: [8] Undefined variable: feel /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 60 行.
+NOTIC: [8] Undefined variable: album /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 61 行.
+NOTIC: [8] Undefined variable: friends /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 62 行.
+NOTIC: [8] Undefined variable: gust /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 63 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Undefined variable: tmp /Users/xingyamac/shopping/blog/Application/Common/Common/function.php 第 283 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 170 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 170 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 170 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 170 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 170 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 204 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 204 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 204 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/ad9a30830f14c1d4afdd11cb2839d351.php 第 204 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080643s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000628s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000984s ]
+
+[ 2016-04-09T10:40:20+08:00 ] ::1 /article-112.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lt_article` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lt_link` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `lt_system` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `lt_album` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `lt_gust` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `lt_say` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lt_tag` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `lt_version` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `lt_picture` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `lt_album_c` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `lt_say_c` [ RunTime:0.0016s ]
+SQL: UPDATE `lt_system` SET `hit`=hit+1 WHERE ( id=1 ) [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Application/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0025s ]
+SQL: SELECT `ac_time` FROM `lt_article_c` WHERE ( ac_rtime>0 ) UNION ALL SELECT sc_time FROM lt_say_c WHERE sc_rtime != 0 UNION ALL SELECT alc_time FROM lt_album_c WHERE alc_rtime >0 order by ac_time desc limit 0,5 [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1455780910 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1455780910 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1455780910 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1454989070 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1454989070 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453865568 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453865568 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453803869 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453767610 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 112 AND ( a_view != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` INNER JOIN lt_tag ON lt_tag.t_id = lt_article.pid  WHERE lt_article.a_id = '112' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_pid` = 112 AND ( ac_rtime >0 ) ORDER BY ac_time desc LIMIT 5   [ RunTime:0.0002s ]
+SQL: UPDATE `lt_article` SET `a_hit`=a_hit+1 WHERE `a_id` = 112 [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lt_article` WHERE ( a_view !=0 AND a_id <112 ) ORDER BY a_id desc LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `lt_article` WHERE ( a_view !=0 AND a_id >112 ) ORDER BY a_id LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+NOTIC: [8] Undefined variable: index /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 57 行.
+NOTIC: [8] Undefined variable: about /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 58 行.
+NOTIC: [8] Undefined variable: feel /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 66 行.
+NOTIC: [8] Undefined variable: album /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 67 行.
+NOTIC: [8] Undefined variable: friends /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 68 行.
+NOTIC: [8] Undefined variable: gust /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 69 行.
+NOTIC: [8] Undefined variable: 1 /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 82 行.
+NOTIC: [8] Undefined variable: v /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 85 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 109 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 110 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 246 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 246 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 246 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 246 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 246 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 280 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 280 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 280 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8c18a247c062214ce7e5b893ecb43733.php 第 280 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064585s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001124s ]
+
+[ 2016-04-09T10:40:20+08:00 ] ::1 /Home/Common/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001816s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lt_article` [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `lt_link` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `lt_system` [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `lt_album` [ RunTime:0.0079s ]
+SQL: SHOW COLUMNS FROM `lt_gust` [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `lt_say` [ RunTime:0.0112s ]
+SQL: SHOW COLUMNS FROM `lt_tag` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `lt_version` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `lt_picture` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `lt_album_c` [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `lt_say_c` [ RunTime:0.0071s ]
+SQL: UPDATE `lt_system` SET `hit`=hit+1 WHERE ( id=1 ) [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Application/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0045s ]
+SQL: SELECT `ac_time` FROM `lt_article_c` WHERE ( ac_rtime>0 ) UNION ALL SELECT sc_time FROM lt_say_c WHERE sc_rtime != 0 UNION ALL SELECT alc_time FROM lt_album_c WHERE alc_rtime >0 order by ac_time desc limit 0,5 [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1455780910 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453865568 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453865568 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] ob_clean(): failed to delete buffer. No buffer to delete /Users/xingyamac/shopping/blog/Application/Home/Controller/CommonController.class.php 第 115 行.
+NOTIC: [8] A non well formed numeric value encountered /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 166 行.
+NOTIC: [8] A non well formed numeric value encountered /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 166 行.
+NOTIC: [8] A non well formed numeric value encountered /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 166 行.
+NOTIC: [8] A non well formed numeric value encountered /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 166 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 178 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 179 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 180 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Verify.class.php 第 181 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000910s ]
+
+[ 2016-04-09T10:40:29+08:00 ] ::1 /Common/loginqq/type/qq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/Route.class.php 第 58 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lt_article` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `lt_link` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `lt_system` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lt_album` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lt_gust` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lt_say` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `lt_tag` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lt_version` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `lt_picture` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `lt_album_c` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `lt_say_c` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `lt_tag` WHERE `t_view` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_system` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `v_version` FROM `lt_version` ORDER BY v_id desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id` FROM `lt_article` WHERE `a_view` = 2  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 110 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 112 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 113 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 114 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 115 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_say_c` WHERE ( sc_rtime != 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_article_c` WHERE ( ac_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_album_c` WHERE ( alc_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_say` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_article` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_gust` WHERE ( g_rtime != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_album` WHERE `al_view` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_picture` WHERE `p_view` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lt_link` WHERE ( l_view != 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `lt_system` SET `hit`=hit+1 WHERE ( id=1 ) [ RunTime:0.0249s ]
+SQL: SELECT * FROM `lt_album` WHERE `al_view` = 1 LIMIT 9   [ RunTime:0.0003s ]
+SQL: SELECT `a_keyword`,`a_id`,`a_time` FROM `lt_article` WHERE ( a_keyword != '' and a_view > 0 ) ORDER BY a_time desc  [ RunTime:0.0003s ]
+SQL: SELECT `a_id` FROM `lt_article` WHERE ( a_view != 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 111 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 113 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE `a_id` = 114 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_link` WHERE `l_view` = 2 ORDER BY l_sort  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Application/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0016s ]
+SQL: SELECT `ac_time` FROM `lt_article_c` WHERE ( ac_rtime>0 ) UNION ALL SELECT sc_time FROM lt_say_c WHERE sc_rtime != 0 UNION ALL SELECT alc_time FROM lt_album_c WHERE alc_rtime >0 order by ac_time desc limit 0,5 [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_gust` WHERE ( g_rtime>0 ) ORDER BY g_time desc LIMIT 5   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article` WHERE ( a_view != 0 ) ORDER BY a_hit desc LIMIT 7   [ RunTime:0.0003s ]
+SQL: SELECT `a_time` FROM `lt_article` ORDER BY a_time desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `s_time` FROM `lt_say` ORDER BY s_time desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `al_time` FROM `lt_album` ORDER BY al_time desc LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-04-09T10:40:36+08:00 ] ::1 /about.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lt_article` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `lt_link` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `lt_system` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `lt_album` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `lt_gust` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `lt_say` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `lt_tag` [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `lt_version` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `lt_picture` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `lt_album_c` [ RunTime:0.0027s ]
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `lt_say_c` [ RunTime:0.0016s ]
+SQL: UPDATE `lt_system` SET `hit`=hit+1 WHERE ( id=1 ) [ RunTime:0.0138s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Application/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `lt_article_c` [ RunTime:0.0018s ]
+SQL: SELECT `ac_time` FROM `lt_article_c` WHERE ( ac_rtime>0 ) UNION ALL SELECT sc_time FROM lt_say_c WHERE sc_rtime != 0 UNION ALL SELECT alc_time FROM lt_album_c WHERE alc_rtime >0 order by ac_time desc limit 0,5 [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1455780910 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1454989070 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453865568 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453803869 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_article_c` WHERE `ac_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_album_c` WHERE `alc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lt_say_c` WHERE `sc_time` = 1453767610 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined variable: index /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 51 行.
+NOTIC: [8] Undefined variable: class /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 53 行.
+NOTIC: [8] Undefined variable: feel /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 60 行.
+NOTIC: [8] Undefined variable: album /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 61 行.
+NOTIC: [8] Undefined variable: friends /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 62 行.
+NOTIC: [8] Undefined variable: gust /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 63 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 151 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 151 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 151 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 151 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 151 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 185 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 185 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 185 行.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /Users/xingyamac/shopping/blog/Runtime/Cache/Home/8d23f0e36454d3b3b6b0158997272bcc.php 第 185 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128902s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.026661s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026831s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /Users/xingyamac/shopping/blog/index.php:1) /Users/xingyamac/shopping/blog/ThinkPHP/Library/Think/View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000950s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001044s ]
+
