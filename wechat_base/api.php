@@ -411,8 +411,9 @@ class wechatCallbackapiTest
                     echo $resultStr;exit;
                 // 判断用户关注时候的时间信息
                 }elseif($msgType=='event' && $event=='subscribe'){
+                    // 获取用户的信息
                     $msgType = "text";
-                    $contentStr = "欢迎进入木木de微信世界\n回复【?】获得更多精彩内容，很黄很暴力哦!!!\n我们的网址http://www.aitef.com";
+                    $contentStr = "您好!欢迎进入木木de微信世界\n回复【?】获得更多精彩内容，很黄很暴力哦!!!\n我们的网址http://www.juulu.com";
                     $resultStr = sprintf($textTpl, $fromUsername, $toUsername, $time, $msgType, $contentStr);
                     echo $resultStr;exit;
                 //菜单点击事件
@@ -571,6 +572,20 @@ class wechatCallbackapiTest
     }
 
 
+    /**
+     * @todo 获取用户基本信息
+     * @param $next_openid string
+     *  没有认证的号是没有这个权限的
+     */
+     public static function user_info($openid='') {
+        $access_token = 'aW1PjZjRYZl1cbv10zT8jWqha-5SVPZe0B_nbu-zeXlMmhSvZhZ-q2I-_R66VhqdnjK9aCEx_XtluTFQEJ222FDNmYFg8YE5Qp4Y5H_tlwfw5ADRIfuEQfMvG-wF07qqGUKfAEAYMC';
+        // https://api.weixin.qq.com/cgi-bin/user/info?access_token=ACCESS_TOKEN&openid=OPENID&lang=zh_CN 
+        $url = "https://api.weixin.qq.com/cgi-bin/user/info?access_token=" . $access_token . '&openid=' . $openid . '&lang=zh_CN';
+        $res = self::curl_get($url);
+        return json_decode($res, true);
+     }
+
+
 
 
 	// 验证秘钥方法------------------------------
@@ -600,7 +615,32 @@ class wechatCallbackapiTest
 		}else{
 			return false;
 		}
-	}  
+	}
+
+
+    private static function curl_get($url) {
+        $ch = curl_init();//初始化curl
+        curl_setopt($ch, CURLOPT_URL, $url);//抓取指定网页
+        curl_setopt($ch, CURLOPT_HEADER, 0);//设置header
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);//要求结果为字符串且输出到屏幕上
+        curl_setopt($ch, CURLOPT_POST, 0);//get提交方式
+        $data = curl_exec($ch);//运行curl
+        curl_close($ch);
+        return $data;
+    }
+    private static function curl_post($url, $data) {
+        $ch = curl_init();//初始化curl
+        curl_setopt($ch, CURLOPT_URL, $url);//抓取指定网页
+        curl_setopt($ch, CURLOPT_HEADER, 0);//设置header
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);//要求结果为字符串且输出到屏幕上
+        curl_setopt($ch, CURLOPT_POST, 1);//post提交方式
+        curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+        $data = curl_exec($ch);//运行curl
+        curl_close($ch);
+        return $data;
+    }
+
+
 }
 
 
