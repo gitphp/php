@@ -413,7 +413,10 @@ class wechatCallbackapiTest
                 }elseif($msgType=='event' && $event=='subscribe'){
                     // 获取用户的信息
                     $msgType = "text";
-                    $contentStr = "您好!欢迎进入木木de微信世界\n回复【?】获得更多精彩内容，很黄很暴力哦!!!\n我们的网址http://www.juulu.com";
+                    $contentStr = "您好!欢迎进入木木de微信世界😘\n
+回复【?】获得更多精彩内容，很黄很暴力哦!!!👨‍👩‍👧‍👦\n
+我的网址http://www.juulu.com😝";
+
                     $resultStr = sprintf($textTpl, $fromUsername, $toUsername, $time, $msgType, $contentStr);
                     echo $resultStr;exit;
                 //菜单点击事件
