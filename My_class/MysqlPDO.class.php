@@ -40,7 +40,7 @@
 			$this->p=new PDO("{$this->type}:{$this->port};host={$this->host};port={$this->port};dbname={$this->dbname}",$this->user,$this->pass);
 			//判断链接是否成功
 			if(!is_object($this->p)){
-				echo "pdo初始化失败了";
+				echo "pdo初始化失败了";exit;
 			}
 		}
 		
