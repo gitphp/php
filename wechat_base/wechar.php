@@ -81,17 +81,17 @@ class wechatCallbackapiTest
         switch ($object->Event)
         {
             case "subscribe":
-                $content = "欢迎关注方倍工作室 ";
+                $content = "欢迎关注PHP工作室 ";
                 break;
             case "unsubscribe":
-                $content = "取消关注";
+                $content = "取消了PHP关注";
                 break;
             case "CLICK":
                 switch ($object->EventKey)
                 {
                     case "COMPANY":
                         $content = array();
-                        $content[] = array("Title"=>"方倍工作室", "Description"=>"", "PicUrl"=>"http://discuz.comli.com/weixin/weather/icon/cartoon.jpg", "Url" =>"http://m.cnblogs.com/?u=txw1958");
+                        $content[] = array("Title"=>"PHP工作室", "Description"=>"", "PicUrl"=>"http://discuz.comli.com/weixin/weather/icon/cartoon.jpg", "Url" =>"http://m.cnblogs.com/?u=txw1958");
                         break;
                     default:
                         $content = "点击菜单：".$object->EventKey;
@@ -142,7 +142,7 @@ class wechatCallbackapiTest
             $content = array();
             $content = array("Title"=>"最炫民族风", "Description"=>"歌手：凤凰传奇", "MusicUrl"=>"http://121.199.4.61/music/zxmzf.mp3", "HQMusicUrl"=>"http://121.199.4.61/music/zxmzf.mp3"); 
         }else{
-            $content = date("Y-m-d H:i:s",time())."\nOpenID：".$object->FromUserName."\n技术支持 方倍工作室";
+            $content = date("Y-m-d H:i:s",time())."\nOpenID：".$object->FromUserName."\n技术支持 PHP工作室";
             // $content = "";
         }
 
