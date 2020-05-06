@@ -12,6 +12,7 @@ header("content-type:text/html;charset=utf-8");
 		public  $link;
 		//加一个属性，是前缀属性
 		private $prefix;
+		
 		/*
 		 * 构造方法
 		 * @param1 array $arr = array()，配置项数组
