@@ -10,7 +10,8 @@ $r->connect('192.168.114.237');
 
 
 if($r->set('b','bbbb')){
-	echo 'ok';
+	echo 'ok';	
+	
 }else{
 	echo 'error';
 } 
