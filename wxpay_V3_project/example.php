@@ -23,4 +23,6 @@ echo $wxPayHelper->create_biz_package();
 
 echo "<br>";
 echo $wxPayHelper->create_native_package();
+
+
 ?>
