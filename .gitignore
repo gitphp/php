@@ -30,4 +30,5 @@ node_modules
 .DS_Store?
 MAMP-PRO-Logo.png
 
+/vendor
 
