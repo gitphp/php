@@ -34,7 +34,9 @@ class MyRedis extends Redis {
         ]
     ];
 
-    function __construct($params = array()) {
+    private function __clone() {}
+
+    private function __construct($params = array()) {
         parent::__construct();
         $serverArray = $this->config;
 
@@ -111,6 +113,35 @@ class MyRedis extends Redis {
         $this->isConnect = $status; //判断redis是否连接成功
         $this->connectMsg = $msg;  //连接redis的消息通知
         return $status;
+    }
+
+        /**
+     * 获取 设置 set, setnx, get, del, exists, setex, psetex, hset, hget, hgetall, lpush, lpop, rpush, rpop, llen, hlen, lindex, sadd, smembers, spop, zadd, , ,
+     * @param $name
+     * @param $arguments
+     * @return string
+     */
+    public function __call($name, $arguments)
+    {
+        if (empty($name)) return false;
+        if (empty($arguments)) return false;
+
+        $count = count($arguments);
+        $result = '';
+        switch ($count) {
+            case 1:
+                $result = $this->redis->$name($arguments['0']);
+                break;
+            case 2:
+                $result = $this->redis->$name($arguments['0'], $arguments['1']);
+                break;
+            case 3:
+                $result = $this->redis->$name($arguments['0'], $arguments['1'], $arguments['2']);
+                break;
+            default:
+                break;
+        }
+        return $result;
     }
 
 }
