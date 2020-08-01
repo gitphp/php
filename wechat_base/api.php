@@ -5,7 +5,7 @@
   */
 
 // 定义token秘钥常量
-define("TOKEN", "weixin");
+define("TOKEN", "weixin_wechat");
 // 实例化微信对象
 $wechatObj = new wechatCallbackapiTest();
 // 调用验证方法valid，当接口连接成功后，
@@ -236,6 +236,7 @@ class wechatCallbackapiTest
                                 exit;
                             //
                         }elseif($keyword=='7'){
+                            // 百度过期了
                             $url='http://api.map.baidu.com/telematics/v3/movie?qt=hot_movie&location=%E6%B7%B1%E5%9C%B3&output=json&ak=YViOZrXwbOtGMHqZU4MAOnrG';
                             $res=file_get_contents($url);
                             $res=json_decode($res);
@@ -270,7 +271,11 @@ class wechatCallbackapiTest
                             // 获取数据但是不输出
                             curl_setopt($curl,CURLOPT_RETURNTRANSFER,1);
                             // 设置请求地址url
-                            $url="http://www.kuitao8.com/api/joke";
+                            // $url="http://www.kuitao8.com/api/joke";  // 过期了url
+                            $t = time();
+                            $p = mt_rand(1,99);
+                            $index = mt_rand(1,9);
+                            $url="http://v.juhe.cn/joke/content/list.php?key=87382c1ca25eea572a47a45ac831c1cf&page={$p}&pagesize=10&sort=desc&time={$t}";
                             curl_setopt($curl,CURLOPT_URL, $url);
                             curl_setopt($curl,CURLOPT_USERAGENT, $_SERVER['HTTP_USER_AGENT']);
                             // 执行curl
@@ -278,7 +283,7 @@ class wechatCallbackapiTest
                             // 关闭资源
                             curl_close($curl);
                             $resp = json_decode($resp,true);
-                            $contentStr= $resp['content'];
+                            $contentStr= $resp['result']['data'][$index]['content'];
                             //--------------
                             $msgType = "text";
                             $resultStr = sprintf($textTpl, $fromUsername, $toUsername, $time, $msgType, $contentStr);
@@ -321,6 +326,7 @@ class wechatCallbackapiTest
 
                         // 调用机器人自动回复功能
                         }else{
+
                             $apiKey = "163e2790318a524857bb822308702361"; 
                             $apiURL = "http://www.tuling123.com/openapi/api?key=KEY&info=INFO";
                             header("Content-type: text/html; charset=utf-8"); 
@@ -382,7 +388,7 @@ class wechatCallbackapiTest
                         'http://img.elongstatic.com/index/termini/termini_it1_bhd.jpg',
                         'http://img.elongstatic.com/index/termini/bfhh-wy.jpg'        
                     );
-                     $url = "http://api.map.baidu.com/telematics/v3/local?location={$y},{$x}&keyWord=酒店&output=json&ak=RvZZQqixew0ixBiZebPOX0Iu";
+                     $url = "http://api.map.baidu.com/telematics/v3/local?location={$y},{$x}&keyWord=酒店&output=json&ak=YViOZrXwbOtGMHqZU4MAOnrG";
                             $str = file_get_contents($url);
                             
                             $json = json_decode($str);
@@ -506,7 +512,7 @@ class wechatCallbackapiTest
                             echo $resultStr;     
                              
                       }elseif($eventKey == 'movie'){
-                           $url='http://api.map.baidu.com/telematics/v3/movie?qt=hot_movie&location=广州&output=json&ak=RvZZQqixew0ixBiZebPOX0Iu';
+                           $url='http://api.map.baidu.com/telematics/v3/movie?qt=hot_movie&location=深圳&output=json&ak=YViOZrXwbOtGMHqZU4MAOnrG';
                             $res=file_get_contents($url);
                             $res=json_decode($res);
 
@@ -529,7 +535,7 @@ class wechatCallbackapiTest
                             exit;
                             
                         }elseif($eventKey == 'weather'){
-                            $url="http://api.map.baidu.com/telematics/v3/weather?location=广州&output=json&ak=RvZZQqixew0ixBiZebPOX0Iu";
+                            $url="http://api.map.baidu.com/telematics/v3/weather?location=深圳&output=json&ak=YViOZrXwbOtGMHqZU4MAOnrG";
                             $res=file_get_contents($url);
                             $res=json_decode($res,true);
                             $msgType = "text";
@@ -543,7 +549,7 @@ class wechatCallbackapiTest
                             exit;
                             
                          }elseif ($eventKey == 'hotel'){
-                            $url="http://api.map.baidu.com/telematics/v3/local?location=113.331222,23.156737&keyWord=%E9%85%92%E5%BA%97&output=json&ak=RvZZQqixew0ixBiZebPOX0Iu";
+                            $url="http://api.map.baidu.com/telematics/v3/local?location=114.067262,22.546479&keyWord=%E9%85%92%E5%BA%97&output=json&ak=YViOZrXwbOtGMHqZU4MAOnrG";
                             $res=file_get_contents($url);
                             $res=json_decode($res,true);
                             $data=array();

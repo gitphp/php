@@ -80,6 +80,8 @@ curl_close($ch);
 //https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx1f719c08a9b63065&secret=32bf9dae4c5af526ed50a815f4ddcd77
 //   https://api.weixin.qq.com/cgi-bin/menu/create?access_token=ACCESS_TOKEN
 
+
+// 下面的个人订阅号的资料，没有认真的订阅号。主题的itcong 2020年8月1日11:40:47
 // 32bf9dae4c5af526ed50a815f4ddcd77
 // wx1f719c08a9b63065
 
