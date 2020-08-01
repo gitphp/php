@@ -55,7 +55,7 @@ $data = '{
        },
 	  {
           "type":"view",
-          "name":"公司主页",
+          "name":"个人博客",
           "url":"http://www.juulu.com/"
       }]
  }';
@@ -77,3 +77,11 @@ curl_close($ch);
 
 //https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx9cdaef952ca5b99a&secret=860eb808259daf6704620bf4c850259e
 
+//https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx1f719c08a9b63065&secret=32bf9dae4c5af526ed50a815f4ddcd77
+//   https://api.weixin.qq.com/cgi-bin/menu/create?access_token=ACCESS_TOKEN
+
+// 32bf9dae4c5af526ed50a815f4ddcd77
+// wx1f719c08a9b63065
+
+
+// 35_OVv6S9Hb6jSfBO6llXgOX5gP22QadMtKqSnh0Hpj-wsqYO5dyt_L4BDCJCJA26NreKM8uSHIi9qWqvImeMVIAUMsw1sLvA6slBkiI9oGyBsYqaWl9mlgQCvN1Fdj_Kb3DfFR4BuX9InmmlbrJTGfAJAFPC
