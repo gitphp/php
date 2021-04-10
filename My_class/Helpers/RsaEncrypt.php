@@ -14,8 +14,8 @@ namespace Payment\Helpers;
 /**
  * Class RsaEncrypt
  * @package Payment\Helpers
- * @author  : Leo
- * @date    : 2019/3/30 8:12 PM
+ * @author  : itpeeg
+ * @date    : 2021-4-10 15:25:41
  * @version : 1.0.0
  * @desc    : rsa加密算法
  *

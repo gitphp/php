@@ -3,7 +3,7 @@
 /*
  * The file is part of the payment lib.
  *
- * (c) Leo <dayugog@gmail.com>
+ * (c) itpeeg <dayugog@gmail.com>
  *
  * This source file is subject to the MIT license that is bundled
  * with this source code in the file LICENSE.
@@ -14,8 +14,8 @@ namespace Payment\Helpers;
 /**
  * Class DataParser
  * @package Payment\Helpers
- * @author  : Leo
- * @date    : 2019/3/30 8:12 PM
+ * @author  : itpeeg
+ * @date    : 2021-4-10 15:26:38
  * @version : 1.0.0
  * @desc    : 数据格式化
  *

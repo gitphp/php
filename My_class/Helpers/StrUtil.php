@@ -14,8 +14,8 @@ namespace Payment\Helpers;
 /**
  * Class StrUtil
  * @package Payment\Helpers
- * @author  : Leo
- * @date    : 2019/3/30 8:12 PM
+ * @author  : itpeeg
+ * @date    : 2021-4-10 15:25:28
  * @version : 1.0.0
  * @desc    : 字符串处理类
  *

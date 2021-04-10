@@ -3,7 +3,7 @@
 /*
  * The file is part of the payment lib.
  *
- * (c) Leo <itpeeg@gmail.com>   2021-4-10 15:15:21
+ * (c) itpeeg <itpeeg@gmail.com>   2021-4-10 15:15:21
  *
  * This source file is subject to the MIT license that is bundled
  * with this source code in the file LICENSE.
@@ -14,8 +14,8 @@ namespace Payment\Helpers;
 /**
  * Class Rsa2Encrypt
  * @package Payment\Helpers
- * @author  : Leo
- * @date    : 2019/3/30 8:12 PM
+ * @author  : itpeeg
+ * @date    : 2021-4-10 15:25:51
  * @version : 1.0.0
  * @desc    : rsa2加密算法
  *
